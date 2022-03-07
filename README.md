@@ -17,3 +17,17 @@ git clone https://github.com/readloud/OSINT-Tools.git
 <li><a href="twpy/#README.md">twpy</a></li>
 <li><a href="TwOSINT/#README.md">TwOSINT</a></li>
 </details>
+
+@Godofcoffe
+
+@thelinuxchoice
+
+@Zabrakk
+
+@falkensmz
+
+@twintproject
+
+@0x0ptim0us
+
+@Nikolai-RR
