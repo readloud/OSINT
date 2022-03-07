@@ -3,6 +3,11 @@
 Like traditional investigations, OSINT investigations involve finding and locating evidence to support your mission goals. 
 During an OSINT investigation, analysts will search for crucial data related to their operation in open web spaces, such as online news outlets or social media platforms.
 
+
+~~~git
+git clone https://github.com/readloud/OSINT-Tools.git
+~~~
+
 <details>
 <summary>TABLE OF CONTENT</summary>
 <li><a href="fisherman/#README.md">fisherman</a></li>
@@ -11,5 +16,3 @@ During an OSINT investigation, analysts will search for crucial data related to 
 <li><a href="twpy/#README.md">twpy</a></li>
 <li><a href="TwOSINT/#README.md">TwOSINT</a></li>
 </details>
-
-
