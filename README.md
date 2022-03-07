@@ -18,16 +18,16 @@ git clone https://github.com/readloud/OSINT-Tools.git
 <li><a href="TwOSINT/#README.md">TwOSINT</a></li>
 </details>
 
-@Godofcoffe
+[](@Godofcoffe)
 
-@thelinuxchoice
+[](@thelinuxchoice)
 
-@Zabrakk
+[](@Zabrakk)
 
-@falkensmz
+[](@falkensmz)
 
-@twintproject
+[](@twintproject)
 
-@0x0ptim0us
+[](@0x0ptim0us)
 
-@Nikolai-RR
+[](@Nikolai-RR)
