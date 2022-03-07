@@ -1,0 +1,13 @@
+[
+  "test/test_api_handler.py::test_append_response_json",
+  "test/test_api_handler.py::test_check_time_format",
+  "test/test_api_handler.py::test_create_get_profile_url",
+  "test/test_api_handler.py::test_create_get_tweets_url",
+  "test/test_api_handler.py::test_decide_num_to_get",
+  "test/test_api_handler.py::test_update_pagination_token",
+  "test/test_api_handler.py::test_update_url_results_num",
+  "test/test_authentication.py::test_create_auth_file",
+  "test/test_authentication.py::test_from_arg",
+  "test/test_authentication.py::test_from_environment",
+  "test/test_authentication.py::test_from_file"
+]
