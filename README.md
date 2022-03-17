@@ -16,6 +16,7 @@ git clone https://github.com/readloud/OSINT-Tools.git
 <li><a href="twosintComet/#README.md">tw1tter0s1nt</a></li>
 <li><a href="twpy/#README.md">twpy</a></li>
 <li><a href="TwOSINT/#README.md">TwOSINT</a></li>
+<li><a href="instascraper/#README.md">instascraper</a></li>
 </details>
 
 <details>
