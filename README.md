@@ -27,4 +27,5 @@ git clone https://github.com/readloud/OSINT-Tools.git
 <li><a href="github.com/twintproject">[twintproject]</a></li>
 <li><a href="github.com/0x0ptim0us">[0x0ptim0us]</a></li>
 <li><a href="github.com/Nikolai-RR">[Nikolai-RR]</a></li>
+<li><a href="github.com/the-javapocalypse">[the-javapocalypse]</a></li>
 </details>
