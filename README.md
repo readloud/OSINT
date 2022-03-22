@@ -6,7 +6,7 @@ During an OSINT investigation, analysts will search for crucial data related to 
 You can also <a href="https://github.com/readloud/OSINT-Tools/fork">fork</a> or take a look at the <a href="https://github.com/git-guides/install-git">Installation guide</a> for each repository.
 
 ~~~git
-git clone https://github.com/readloud/OSINT-Tools.git
+git clone https://github.com/readloud/OSINT.git
 ~~~
 
 <details>
