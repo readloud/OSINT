@@ -17,6 +17,7 @@ git clone https://github.com/readloud/OSINT.git
 <li><a href="twpy/#README.md">twpy</a></li>
 <li><a href="TwOSINT/#README.md">TwOSINT</a></li>
 <li><a href="instascrapper/#README.md">instascrapper</a></li>
+<li><a href="simpleOSINT/#README.md">simpleOSINT</a></li> 
 </details>
 
 <details>
@@ -29,4 +30,5 @@ git clone https://github.com/readloud/OSINT.git
 <li><a href="github.com/0x0ptim0us">[0x0ptim0us]</a></li>
 <li><a href="github.com/Nikolai-RR">[Nikolai-RR]</a></li>
 <li><a href="github.com/the-javapocalypse">[the-javapocalypse]</a></li>
+<li><a href="https://github.com/henry-richard7">[henry-richard7]</a></li>
 </details>
